@@ -14,3 +14,6 @@
 
 ## git pull --reabse
 マージコミットが増えずに済む
+
+## git log
+git￥のログを確認する
