@@ -60,3 +60,7 @@ return origin!!!
 
 ## git clean
 作業ディレクトリから追跡対象外のファイルを削除する
+
+## git rebase --continue
+rebase を継続する。
+
