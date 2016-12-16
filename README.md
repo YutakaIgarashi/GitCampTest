@@ -3,7 +3,8 @@ gitコマンド辞典
 
 # git add
 
-aaaaaaaaaaaaaaaa
-bbbbbbbbbb
-ccccccccccc
+# git commit
+インデックスに追加されたファイルをコミットする
 
+
+aaa
