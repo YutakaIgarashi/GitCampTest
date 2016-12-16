@@ -26,6 +26,11 @@
 * 「git add xxxx.xx」で再度インデックスに追加。
 * 「git rebase --continue」でリベースを継続。
 
+## git fetch --prune
+リモートリポジトリの削除情報をローカルに更新する
+
+add
+
 ## git clone
 リポジトリをコピーする
 
@@ -42,3 +47,6 @@ HEADとインデックスの差分を表示する。
 リモートリポジトリの一覧表示
 
 
+## git rebase --continue
+git rebaseの変更を適応する
+rebase中に競合が起きたとき、解決後に実行しrebaseを終了する
