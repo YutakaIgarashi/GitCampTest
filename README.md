@@ -21,10 +21,14 @@
 ## git pull --reabse
 マージコミットが増えずに済む
 
-### 競合したときは
+### git rebase --continue
+git rebaseの変更を適応する
+rebase中に競合が起きたとき、解決後に実行しrebaseを終了する
+
 * エディタに入った競合の印（<<<<<<<<<）を参考に、競合をあるべき姿に修正。
 * 「git add xxxx.xx」で再度インデックスに追加。
 * 「git rebase --continue」でリベースを継続。
+
 
 ## git fetch --prune
 リモートリポジトリの削除情報をローカルに更新する
@@ -44,7 +48,8 @@ HEADとインデックスの差分を表示する。
 ## git remote
 リモートリポジトリの一覧表示
 
+## git reset
+return origin!!!
 
-## git rebase --continue
-git rebaseの変更を適応する
-rebase中に競合が起きたとき、解決後に実行しrebaseを終了する
+### git reset -hard HEAD
+作業フォルダで行った編集をすべてクリアする。
