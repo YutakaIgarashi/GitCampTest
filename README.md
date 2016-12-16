@@ -18,7 +18,7 @@
 ## git bisect
 二分探索によって問題箇所を特定する
 
-## git pull --reabse
+## git pull --rebase
 マージコミットが増えずに済む
 
 ### git rebase --continue
