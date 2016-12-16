@@ -26,6 +26,11 @@
 * 「git add xxxx.xx」で再度インデックスに追加。
 * 「git rebase --continue」でリベースを継続。
 
+## git fetch --prune
+リモートリポジトリの削除情報をローカルに更新する
+
+add
+
 ## git clone
 リポジトリをコピーする
 
