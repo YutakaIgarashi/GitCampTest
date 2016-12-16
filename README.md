@@ -1,5 +1,9 @@
 gitコマンド辞典
 
-# git init
 
 # git add
+
+aaaaaaaaaaaaaaaa
+bbbbbbbbbb
+ccccccccccc
+
