@@ -53,3 +53,15 @@ return origin!!!
 
 ### git reset -hard HEAD
 作業フォルダで行った編集をすべてクリアする。
+
+## git rebase --continue
+git rebaseの変更を適応する
+rebase中に競合が起きたとき、解決後に実行しrebaseを終了する
+HEADとインデックスの差分を表示する
+
+####git reset
+return origin!!!
+
+## git reflog
+過去にHEADが指していたコミット一覧をを表示する
+
