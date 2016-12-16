@@ -64,3 +64,6 @@ return origin!!!
 ## git rebase --continue
 rebase を継続する。
 
+## git branch **
+make branch!!
+
