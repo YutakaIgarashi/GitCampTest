@@ -8,8 +8,8 @@
 ## git commit
 インデックスに追加されたファイルをコミットする
 
-# git bisect
+## git bisect
 二分探索によって問題箇所を特定する
 
-# git pull -reabse
+## git pull -reabse
 マージコミットが増えずに済む
