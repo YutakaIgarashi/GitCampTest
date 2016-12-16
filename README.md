@@ -13,3 +13,7 @@
 
 ## git pull -reabse
 マージコミットが増えずに済む
+
+
+add
+
