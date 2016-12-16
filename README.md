@@ -1,10 +1,11 @@
-gitコマンド辞典
+# gitコマンド辞典
 
-# git init
+## git init
+リポジトリをカレントディレクトリに作成する。
 
-# git add
+## git add
 
-# git commit
+## git commit
 インデックスに追加されたファイルをコミットする
 
 # git bisect
