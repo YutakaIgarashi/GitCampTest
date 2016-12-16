@@ -26,9 +26,6 @@
 * 「git add xxxx.xx」で再度インデックスに追加。
 * 「git rebase --continue」でリベースを継続。
 
-
-add
-
 ## git clone
 リポジトリをコピーする
 
@@ -43,3 +40,5 @@ HEADとインデックスの差分を表示する。
 
 ## git remote
 リモートリポジトリの一覧表示
+
+
