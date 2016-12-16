@@ -12,8 +12,11 @@
 ## git bisect
 二分探索によって問題箇所を特定する
 
-## git pull -reabse
+## git pull --reabse
 マージコミットが増えずに済む
 
-## TEST
+## git clone
+リポジトリをコピーする
 
+## git push
+リモートリポジトリに変更を書き込む
