@@ -60,3 +60,7 @@ return origin!!!
 
 ## git clean
 作業ディレクトリから追跡対象外のファイルを削除する
+
+## id/14でのコミット
+## git checkout [branch]
+ブランチを変更する
