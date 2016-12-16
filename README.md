@@ -64,3 +64,6 @@ return origin!!!
 ## git rebase --continue
 rebase を継続する。
 
+## id/14でのコミット
+## git checkout [branch]
+ブランチを変更する
